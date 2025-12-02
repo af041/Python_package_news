@@ -1,0 +1,44 @@
+name: Package Newsletter
+
+on:
+  schedule:
+    - cron: "0 8 * * MON"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install .
+
+      - name: Run newsletter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m newsletter run-once --config config.yaml
+
+      - name: Commit and push changes
+        if: ${{ github.ref == 'refs/heads/' + github.event.repository.default_branch }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add newsletters state.json
+            git commit -m "chore: update newsletter $(date -u +"%Y-%m-%d")"
+            git push
+          else
+            echo "No changes to commit"
+          fi
