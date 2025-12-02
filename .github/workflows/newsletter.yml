@@ -26,7 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          #python -m newsletter run-once --config config.yaml
           python -m newsletter run-once
 
       - name: Commit and push changes
