@@ -1,12 +1,12 @@
 name: Package Newsletter
 
-permissions:
-  contents: write
-  
 on:
   schedule:
     - cron: "0 8 1 * *"
   workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   build:
