@@ -26,6 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "Current working directory:"
+          pwd
+          echo "Contents of working directory:"
+          ls -la
+          python -m newsletter print-config
           python -m newsletter run-once
 
       - name: Commit and push changes
