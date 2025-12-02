@@ -10,7 +10,7 @@ from .pipeline import Pipeline
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Python package newsletter generator")
     parser.add_argument("command", choices=["run-once", "print-config"], help="Command to execute")
-    parser.add_argument("--config", default="config.yaml", help="Path to configuration file")
+    parser.add_argument("--config", default="./config.yaml", help="Path to configuration file")
     parser.add_argument("--log-level", default="INFO", help="Logging level")
     return parser
 
