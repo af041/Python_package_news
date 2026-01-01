@@ -1,28 +1,28 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.3.5",
-      "last_checked_at": "2025-12-02T09:46:10.250683+00:00"
+      "last_seen_version": "2.4.0",
+      "last_checked_at": "2026-01-01T08:16:24.532143+00:00"
     },
     "fastapi": {
-      "last_seen_version": "0.123.3",
-      "last_checked_at": "2025-12-02T09:46:10.560463+00:00"
+      "last_seen_version": "0.128.0",
+      "last_checked_at": "2026-01-01T08:16:24.969458+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.42.0",
-      "last_checked_at": "2025-12-02T09:46:11.173904+00:00"
+      "last_seen_version": "1.42.19",
+      "last_checked_at": "2026-01-01T08:16:25.392508+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.41.6",
-      "last_checked_at": "2025-12-02T09:46:12.073614+00:00"
+      "last_seen_version": "1.42.19",
+      "last_checked_at": "2026-01-01T08:16:26.317442+00:00"
     },
     "certifi": {
       "last_seen_version": "2025.11.12",
       "last_checked_at": "2025-12-02T09:46:12.612956+00:00"
     },
     "aiobotocore": {
-      "last_seen_version": "2.26.0",
-      "last_checked_at": "2025-12-02T09:46:13.201861+00:00"
+      "last_seen_version": "3.0.0",
+      "last_checked_at": "2026-01-01T08:16:29.515057+00:00"
     },
     "s3transfer": {
       "last_seen_version": "0.16.0",
@@ -31,6 +31,22 @@
     "pydantic": {
       "last_seen_version": "2.12.5",
       "last_checked_at": "2025-12-02T09:46:16.800209+00:00"
+    },
+    "pandas": {
+      "last_seen_version": "3.0.0rc1",
+      "last_checked_at": "2026-01-01T08:16:23.826340+00:00"
+    },
+    "urllib3": {
+      "last_seen_version": "2.6.2",
+      "last_checked_at": "2026-01-01T08:16:25.899259+00:00"
+    },
+    "s3fs": {
+      "last_seen_version": "2025.12.0",
+      "last_checked_at": "2026-01-01T08:16:32.448901+00:00"
+    },
+    "fsspec": {
+      "last_seen_version": "2025.12.0",
+      "last_checked_at": "2026-01-01T08:16:32.773316+00:00"
     }
   }
 }
