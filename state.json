@@ -1,28 +1,28 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.4.0",
-      "last_checked_at": "2026-01-01T08:16:24.532143+00:00"
+      "last_seen_version": "2.4.2",
+      "last_checked_at": "2026-02-01T08:19:34.906072+00:00"
     },
     "fastapi": {
       "last_seen_version": "0.128.0",
       "last_checked_at": "2026-01-01T08:16:24.969458+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.42.19",
-      "last_checked_at": "2026-01-01T08:16:25.392508+00:00"
+      "last_seen_version": "1.42.39",
+      "last_checked_at": "2026-02-01T08:19:35.879850+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.42.19",
-      "last_checked_at": "2026-01-01T08:16:26.317442+00:00"
+      "last_seen_version": "1.42.39",
+      "last_checked_at": "2026-02-01T08:19:36.986625+00:00"
     },
     "certifi": {
-      "last_seen_version": "2025.11.12",
-      "last_checked_at": "2025-12-02T09:46:12.612956+00:00"
+      "last_seen_version": "2026.1.4",
+      "last_checked_at": "2026-02-01T08:19:37.910511+00:00"
     },
     "aiobotocore": {
-      "last_seen_version": "3.0.0",
-      "last_checked_at": "2026-01-01T08:16:29.515057+00:00"
+      "last_seen_version": "3.1.1",
+      "last_checked_at": "2026-02-01T08:19:41.999230+00:00"
     },
     "s3transfer": {
       "last_seen_version": "0.16.0",
@@ -33,12 +33,12 @@
       "last_checked_at": "2025-12-02T09:46:16.800209+00:00"
     },
     "pandas": {
-      "last_seen_version": "3.0.0rc1",
-      "last_checked_at": "2026-01-01T08:16:23.826340+00:00"
+      "last_seen_version": "3.0.0",
+      "last_checked_at": "2026-02-01T08:19:33.956542+00:00"
     },
     "urllib3": {
-      "last_seen_version": "2.6.2",
-      "last_checked_at": "2026-01-01T08:16:25.899259+00:00"
+      "last_seen_version": "2.6.3",
+      "last_checked_at": "2026-02-01T08:19:36.487793+00:00"
     },
     "s3fs": {
       "last_seen_version": "2025.12.0",
@@ -47,6 +47,22 @@
     "fsspec": {
       "last_seen_version": "2025.12.0",
       "last_checked_at": "2026-01-01T08:16:32.773316+00:00"
+    },
+    "packaging": {
+      "last_seen_version": "26.0",
+      "last_checked_at": "2026-02-01T08:19:37.544559+00:00"
+    },
+    "setuptools": {
+      "last_seen_version": "80.10.2",
+      "last_checked_at": "2026-02-01T08:19:39.395360+00:00"
+    },
+    "grpcio-status": {
+      "last_seen_version": "1.78.0rc2",
+      "last_checked_at": "2026-02-01T08:19:42.573223+00:00"
+    },
+    "cryptography": {
+      "last_seen_version": "46.0.4",
+      "last_checked_at": "2026-02-01T08:19:43.741501+00:00"
     }
   }
 }
