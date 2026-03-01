@@ -5,24 +5,24 @@
       "last_checked_at": "2026-02-01T08:19:34.906072+00:00"
     },
     "fastapi": {
-      "last_seen_version": "0.128.0",
-      "last_checked_at": "2026-01-01T08:16:24.969458+00:00"
+      "last_seen_version": "0.134.0",
+      "last_checked_at": "2026-03-01T08:17:57.601270+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.42.39",
-      "last_checked_at": "2026-02-01T08:19:35.879850+00:00"
+      "last_seen_version": "1.42.59",
+      "last_checked_at": "2026-03-01T08:17:58.039960+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.42.39",
-      "last_checked_at": "2026-02-01T08:19:36.986625+00:00"
+      "last_seen_version": "1.42.59",
+      "last_checked_at": "2026-03-01T08:18:00.985205+00:00"
     },
     "certifi": {
-      "last_seen_version": "2026.1.4",
-      "last_checked_at": "2026-02-01T08:19:37.910511+00:00"
+      "last_seen_version": "2026.2.25",
+      "last_checked_at": "2026-03-01T08:17:59.849249+00:00"
     },
     "aiobotocore": {
-      "last_seen_version": "3.1.1",
-      "last_checked_at": "2026-02-01T08:19:41.999230+00:00"
+      "last_seen_version": "3.2.0",
+      "last_checked_at": "2026-03-01T08:18:03.461615+00:00"
     },
     "s3transfer": {
       "last_seen_version": "0.16.0",
@@ -33,8 +33,8 @@
       "last_checked_at": "2025-12-02T09:46:16.800209+00:00"
     },
     "pandas": {
-      "last_seen_version": "3.0.0",
-      "last_checked_at": "2026-02-01T08:19:33.956542+00:00"
+      "last_seen_version": "3.0.1",
+      "last_checked_at": "2026-03-01T08:17:56.254245+00:00"
     },
     "urllib3": {
       "last_seen_version": "2.6.3",
@@ -53,16 +53,20 @@
       "last_checked_at": "2026-02-01T08:19:37.544559+00:00"
     },
     "setuptools": {
-      "last_seen_version": "80.10.2",
-      "last_checked_at": "2026-02-01T08:19:39.395360+00:00"
+      "last_seen_version": "82.0.0",
+      "last_checked_at": "2026-03-01T08:17:59.479352+00:00"
     },
     "grpcio-status": {
-      "last_seen_version": "1.78.0rc2",
-      "last_checked_at": "2026-02-01T08:19:42.573223+00:00"
+      "last_seen_version": "1.78.1",
+      "last_checked_at": "2026-03-01T08:18:04.639970+00:00"
     },
     "cryptography": {
-      "last_seen_version": "46.0.4",
-      "last_checked_at": "2026-02-01T08:19:43.741501+00:00"
+      "last_seen_version": "46.0.5",
+      "last_checked_at": "2026-03-01T08:18:04.600485+00:00"
+    },
+    "pip": {
+      "last_seen_version": "26.0.1",
+      "last_checked_at": "2026-03-01T08:18:06.016860+00:00"
     }
   }
 }
