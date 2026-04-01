@@ -1,40 +1,40 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.4.2",
-      "last_checked_at": "2026-02-01T08:19:34.906072+00:00"
+      "last_seen_version": "2.4.4",
+      "last_checked_at": "2026-04-01T08:52:25.675955+00:00"
     },
     "fastapi": {
-      "last_seen_version": "0.134.0",
-      "last_checked_at": "2026-03-01T08:17:57.601270+00:00"
+      "last_seen_version": "0.135.2",
+      "last_checked_at": "2026-04-01T08:52:26.075686+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.42.59",
-      "last_checked_at": "2026-03-01T08:17:58.039960+00:00"
+      "last_seen_version": "1.42.80",
+      "last_checked_at": "2026-04-01T08:52:26.428886+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.42.59",
-      "last_checked_at": "2026-03-01T08:18:00.985205+00:00"
+      "last_seen_version": "1.42.80",
+      "last_checked_at": "2026-04-01T08:52:31.224894+00:00"
     },
     "certifi": {
       "last_seen_version": "2026.2.25",
       "last_checked_at": "2026-03-01T08:17:59.849249+00:00"
     },
     "aiobotocore": {
-      "last_seen_version": "3.2.0",
-      "last_checked_at": "2026-03-01T08:18:03.461615+00:00"
+      "last_seen_version": "3.3.0",
+      "last_checked_at": "2026-04-01T08:52:31.634246+00:00"
     },
     "s3transfer": {
       "last_seen_version": "0.16.0",
       "last_checked_at": "2025-12-02T09:46:15.683687+00:00"
     },
     "pydantic": {
-      "last_seen_version": "2.12.5",
-      "last_checked_at": "2025-12-02T09:46:16.800209+00:00"
+      "last_seen_version": "2.13.0b3",
+      "last_checked_at": "2026-04-01T08:52:33.922437+00:00"
     },
     "pandas": {
-      "last_seen_version": "3.0.1",
-      "last_checked_at": "2026-03-01T08:17:56.254245+00:00"
+      "last_seen_version": "3.0.2",
+      "last_checked_at": "2026-04-01T08:52:24.977345+00:00"
     },
     "urllib3": {
       "last_seen_version": "2.6.3",
@@ -53,20 +53,28 @@
       "last_checked_at": "2026-02-01T08:19:37.544559+00:00"
     },
     "setuptools": {
-      "last_seen_version": "82.0.0",
-      "last_checked_at": "2026-03-01T08:17:59.479352+00:00"
+      "last_seen_version": "82.0.1",
+      "last_checked_at": "2026-04-01T08:52:27.136619+00:00"
     },
     "grpcio-status": {
-      "last_seen_version": "1.78.1",
-      "last_checked_at": "2026-03-01T08:18:04.639970+00:00"
+      "last_seen_version": "1.80.0",
+      "last_checked_at": "2026-04-01T08:52:33.394388+00:00"
     },
     "cryptography": {
-      "last_seen_version": "46.0.5",
-      "last_checked_at": "2026-03-01T08:18:04.600485+00:00"
+      "last_seen_version": "46.0.6",
+      "last_checked_at": "2026-04-01T08:52:32.341653+00:00"
     },
     "pip": {
       "last_seen_version": "26.0.1",
       "last_checked_at": "2026-03-01T08:18:06.016860+00:00"
+    },
+    "requests": {
+      "last_seen_version": "2.33.1",
+      "last_checked_at": "2026-04-01T08:52:28.632827+00:00"
+    },
+    "charset-normalizer": {
+      "last_seen_version": "3.4.6",
+      "last_checked_at": "2026-04-01T08:52:30.576659+00:00"
     }
   }
 }
