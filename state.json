@@ -1,24 +1,24 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.4.6",
-      "last_checked_at": "2026-06-01T13:25:04.929771+00:00"
+      "last_seen_version": "2.5.0",
+      "last_checked_at": "2026-07-01T11:14:48.933088+00:00"
     },
     "fastapi": {
-      "last_seen_version": "0.136.3",
-      "last_checked_at": "2026-06-01T13:25:05.473933+00:00"
+      "last_seen_version": "0.138.2",
+      "last_checked_at": "2026-07-01T11:14:49.356765+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.43.18",
-      "last_checked_at": "2026-06-01T13:25:06.101594+00:00"
+      "last_seen_version": "1.43.38",
+      "last_checked_at": "2026-07-01T11:14:49.821247+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.43.18",
-      "last_checked_at": "2026-06-01T13:25:13.480432+00:00"
+      "last_seen_version": "1.43.38",
+      "last_checked_at": "2026-07-01T11:14:54.695659+00:00"
     },
     "certifi": {
-      "last_seen_version": "2026.5.20",
-      "last_checked_at": "2026-06-01T13:25:08.085641+00:00"
+      "last_seen_version": "2026.6.17",
+      "last_checked_at": "2026-07-01T11:14:51.148895+00:00"
     },
     "aiobotocore": {
       "last_seen_version": "3.7.0",
@@ -33,8 +33,8 @@
       "last_checked_at": "2026-06-01T13:25:16.191122+00:00"
     },
     "pandas": {
-      "last_seen_version": "3.0.3",
-      "last_checked_at": "2026-06-01T13:25:03.764873+00:00"
+      "last_seen_version": "3.0.4",
+      "last_checked_at": "2026-07-01T11:14:48.247718+00:00"
     },
     "urllib3": {
       "last_seen_version": "2.7.0",
@@ -61,8 +61,8 @@
       "last_checked_at": "2026-04-01T08:52:33.394388+00:00"
     },
     "cryptography": {
-      "last_seen_version": "48.0.0",
-      "last_checked_at": "2026-06-01T13:25:13.869293+00:00"
+      "last_seen_version": "49.0.0",
+      "last_checked_at": "2026-07-01T11:14:55.501499+00:00"
     },
     "pip": {
       "last_seen_version": "26.0.1",
@@ -77,12 +77,16 @@
       "last_checked_at": "2026-05-01T09:24:16.020276+00:00"
     },
     "idna": {
-      "last_seen_version": "3.17",
-      "last_checked_at": "2026-06-01T13:25:08.638252+00:00"
+      "last_seen_version": "3.18",
+      "last_checked_at": "2026-07-01T11:14:51.479713+00:00"
     },
     "click": {
       "last_seen_version": "8.4.1",
       "last_checked_at": "2026-06-01T13:25:18.240132+00:00"
+    },
+    "typing-extensions": {
+      "last_seen_version": "4.16.0rc2",
+      "last_checked_at": "2026-07-01T11:14:52.458807+00:00"
     }
   }
 }
