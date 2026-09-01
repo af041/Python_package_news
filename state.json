@@ -1,20 +1,20 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.5.1",
-      "last_checked_at": "2026-08-01T09:47:38.169371+00:00"
+      "last_seen_version": "2.5.2",
+      "last_checked_at": "2026-09-01T12:50:57.684791+00:00"
     },
     "fastapi": {
       "last_seen_version": "0.141.1",
       "last_checked_at": "2026-08-01T09:47:38.680369+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.43.62",
-      "last_checked_at": "2026-08-01T09:47:39.160991+00:00"
+      "last_seen_version": "1.43.85",
+      "last_checked_at": "2026-09-01T12:50:58.618830+00:00"
     },
     "botocore": {
-      "last_seen_version": "1.43.62",
-      "last_checked_at": "2026-08-01T09:47:45.268050+00:00"
+      "last_seen_version": "1.43.85",
+      "last_checked_at": "2026-09-01T12:51:06.014162+00:00"
     },
     "certifi": {
       "last_seen_version": "2026.7.22",
@@ -29,8 +29,8 @@
       "last_checked_at": "2025-12-02T09:46:15.683687+00:00"
     },
     "pydantic": {
-      "last_seen_version": "2.14.0a1",
-      "last_checked_at": "2026-06-01T13:25:16.191122+00:00"
+      "last_seen_version": "2.14.0b1",
+      "last_checked_at": "2026-09-01T12:51:07.024993+00:00"
     },
     "pandas": {
       "last_seen_version": "3.0.5",
@@ -49,20 +49,20 @@
       "last_checked_at": "2026-01-01T08:16:32.773316+00:00"
     },
     "packaging": {
-      "last_seen_version": "26.2",
-      "last_checked_at": "2026-05-01T09:24:12.422515+00:00"
+      "last_seen_version": "26.3",
+      "last_checked_at": "2026-09-01T12:50:59.105722+00:00"
     },
     "setuptools": {
-      "last_seen_version": "83.0.0",
-      "last_checked_at": "2026-08-01T09:47:44.817131+00:00"
+      "last_seen_version": "84.0.0",
+      "last_checked_at": "2026-09-01T12:51:03.982860+00:00"
     },
     "grpcio-status": {
       "last_seen_version": "1.80.0",
       "last_checked_at": "2026-04-01T08:52:33.394388+00:00"
     },
     "cryptography": {
-      "last_seen_version": "50.0.0",
-      "last_checked_at": "2026-08-01T09:47:45.677126+00:00"
+      "last_seen_version": "50.0.1",
+      "last_checked_at": "2026-09-01T12:51:04.337171+00:00"
     },
     "pip": {
       "last_seen_version": "26.0.1",
@@ -73,24 +73,28 @@
       "last_checked_at": "2026-06-01T13:25:09.190508+00:00"
     },
     "charset-normalizer": {
-      "last_seen_version": "3.4.9",
-      "last_checked_at": "2026-08-01T09:47:44.109405+00:00"
+      "last_seen_version": "3.5.1",
+      "last_checked_at": "2026-09-01T12:51:03.572565+00:00"
     },
     "idna": {
-      "last_seen_version": "3.18",
-      "last_checked_at": "2026-07-01T11:14:51.479713+00:00"
+      "last_seen_version": "3.19",
+      "last_checked_at": "2026-09-01T12:51:00.226186+00:00"
     },
     "click": {
-      "last_seen_version": "8.4.1",
-      "last_checked_at": "2026-06-01T13:25:18.240132+00:00"
+      "last_seen_version": "8.5.0",
+      "last_checked_at": "2026-09-01T12:51:07.475434+00:00"
     },
     "typing-extensions": {
       "last_seen_version": "4.16.0",
       "last_checked_at": "2026-08-01T09:47:40.183183+00:00"
     },
     "cffi": {
-      "last_seen_version": "2.1.0",
-      "last_checked_at": "2026-08-01T09:47:46.353927+00:00"
+      "last_seen_version": "2.1.1",
+      "last_checked_at": "2026-09-01T12:51:04.794939+00:00"
+    },
+    "pygments": {
+      "last_seen_version": "2.21.0",
+      "last_checked_at": "2026-09-01T12:51:05.296761+00:00"
     }
   }
 }
