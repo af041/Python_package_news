@@ -1,24 +1,24 @@
 {
   "packages": {
     "numpy": {
-      "last_seen_version": "2.5.3",
-      "last_checked_at": "2026-10-01T14:53:39.781073+00:00"
+      "last_seen_version": "2.5.4",
+      "last_checked_at": "2026-11-01T14:35:16.196026+00:00"
     },
     "fastapi": {
-      "last_seen_version": "0.142.2",
-      "last_checked_at": "2026-10-01T14:53:40.256209+00:00"
+      "last_seen_version": "0.162.0",
+      "last_checked_at": "2026-11-01T14:35:16.590880+00:00"
     },
     "boto3": {
-      "last_seen_version": "1.43.106",
-      "last_checked_at": "2026-10-01T14:53:40.697518+00:00"
+      "last_seen_version": "1.43.123",
+      "last_checked_at": "2026-11-01T14:35:17.003223+00:00"
     },
     "botocore": {
       "last_seen_version": "1.43.106",
       "last_checked_at": "2026-10-01T14:53:49.984758+00:00"
     },
     "certifi": {
-      "last_seen_version": "2026.7.22",
-      "last_checked_at": "2026-08-01T09:47:40.548376+00:00"
+      "last_seen_version": "2026.10.23",
+      "last_checked_at": "2026-11-01T14:35:18.052276+00:00"
     },
     "aiobotocore": {
       "last_seen_version": "3.8.0",
@@ -29,12 +29,12 @@
       "last_checked_at": "2025-12-02T09:46:15.683687+00:00"
     },
     "pydantic": {
-      "last_seen_version": "2.14.0b2",
-      "last_checked_at": "2026-10-01T14:53:50.262576+00:00"
+      "last_seen_version": "2.14.2",
+      "last_checked_at": "2026-11-01T14:35:25.541508+00:00"
     },
     "pandas": {
-      "last_seen_version": "3.1.0rc0",
-      "last_checked_at": "2026-10-01T14:53:39.163378+00:00"
+      "last_seen_version": "3.1.0",
+      "last_checked_at": "2026-11-01T14:35:15.647771+00:00"
     },
     "urllib3": {
       "last_seen_version": "2.8.0",
@@ -53,8 +53,8 @@
       "last_checked_at": "2026-09-01T12:50:59.105722+00:00"
     },
     "setuptools": {
-      "last_seen_version": "84.0.0",
-      "last_checked_at": "2026-09-01T12:51:03.982860+00:00"
+      "last_seen_version": "84.2.1",
+      "last_checked_at": "2026-11-01T14:35:25.298608+00:00"
     },
     "grpcio-status": {
       "last_seen_version": "1.80.0",
@@ -95,6 +95,22 @@
     "pygments": {
       "last_seen_version": "2.21.0",
       "last_checked_at": "2026-09-01T12:51:05.296761+00:00"
+    },
+    "pluggy": {
+      "last_seen_version": "1.7.0",
+      "last_checked_at": "2026-11-01T14:35:22.991088+00:00"
+    },
+    "pycparser": {
+      "last_seen_version": "3.12",
+      "last_checked_at": "2026-11-01T14:35:23.677783+00:00"
+    },
+    "python-dateutil": {
+      "last_seen_version": "4.0.0",
+      "last_checked_at": "2026-11-01T14:35:24.568367+00:00"
+    },
+    "pydantic-core": {
+      "last_seen_version": "2.50.2",
+      "last_checked_at": "2026-11-01T14:35:25.911332+00:00"
     }
   }
 }
